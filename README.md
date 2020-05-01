@@ -19,3 +19,5 @@ This file counts the number of occurrences of the word/phrase in inputfile.txt a
 Both the inputfile.txt and outputfile.txt can be found in the foulder that contains WordFinder.py and main.cpp after the program has been ran.
 
 userfile.txt can be used as a test file and is not necessary. 
+
+Demonstration Video: https://youtu.be/4sfGxa59HI4
